@@ -20,6 +20,7 @@ class Register extends React.Component {
 
   state = {
     users:[],
+    listsss:[],
     newUserData:{
       
       username:'',
