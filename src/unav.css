@@ -1,0 +1,21 @@
+.userprofiledetials{
+    
+    background-color:white;
+    padding-left: 15cm;
+    padding: 50px;
+    opacity: 0.9;
+ 
+}
+
+.dimage{
+    padding-left: 1ccm;
+}
+.userprofile{
+    background-color: black;
+    padding-left: 6cm;
+    padding-right: 6cm;
+}
+
+.userprofiledetials2{
+    float: left;
+}

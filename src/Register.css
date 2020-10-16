@@ -1,0 +1,39 @@
+.registerBody{
+    font-size: inherit;
+    font-display: inherit;
+    color:rgb(15, 15, 17);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style: normal;
+    padding-left: 6ch;
+    background-image: url('../src/Image/car4.jpg');
+   padding: 25px;
+ padding-left: 14cm;
+ padding-right: 14cm;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+
+.later{
+    align-content: center;
+}
+.registerCard{
+    color: white;
+    opacity: 0.82;
+    font-weight: 1000;
+    font-size: 0.5cm;
+    background-color: black;
+    padding-left: 1cm;
+    padding-right: 1cm;
+   
+}
+a{
+    text-align: center;
+    align-content: center;
+    transition: step-start;
+}
+
+button{
+    align-content: center;
+}

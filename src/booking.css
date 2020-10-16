@@ -1,0 +1,56 @@
+.bookings{
+    font-size: inherit;
+    font-display: inherit;
+    color:rgb(15, 15, 17);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style: normal;
+    padding-left: 6ch;
+    background-image: url('../src/Image/car4.jpg');
+   padding: 25px;
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+.tform{
+    padding-left: 15%;
+  }
+.trackingpage{
+    padding-left: 25%;
+    padding-right: 25%;
+    align-content: center;
+    
+ }
+
+
+.formc{
+  padding-right: 15cm;
+  padding-left: 2cm;
+    color: white;
+    opacity: 0.82;
+    font-weight: 1000;
+    font-size: 0.5cm;
+    background-color: black;
+    width: 400px;
+    padding: 50px;
+   
+  }
+
+.formc2{
+  padding-left: .5;
+}
+
+.text-muted{
+  font-weight: 1000;
+   
+}
+
+.bForm{
+  
+  color: white;
+  font-family: fantasy;
+  font-weight: bolder;
+  padding-left: 13cm;
+  
+}

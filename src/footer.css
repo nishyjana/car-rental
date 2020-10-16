@@ -1,0 +1,54 @@
+.footer{
+    font: 1em sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20cm;
+    align-items: baseline;
+    background-color: gray;
+}
+a:link {
+    color:white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }
+
+  .aaa{
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  }
+
+  .container {
+    width:100%;
+    text-align:left;
+    background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url("../src/Image/footer.png");
+  
+  }
+  
+  #left {
+    float:left;
+    height: 20px;
+    text-align: left;
+  }
+  
+  
+  #right {
+    float:right;
+    height: 20px;
+   }
